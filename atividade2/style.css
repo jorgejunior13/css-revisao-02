@@ -1,0 +1,24 @@
+.texto{
+    font-size: 20px;
+    font-family: Arial bold;
+    text-align: center;
+    top: 100px;
+    position: fixed;
+    left: 10%;
+}
+header{
+    position: fixed;
+    top: -20px;
+    left: 40%;
+}
+#imagem{
+    position: fixed;
+    left: 1285px;
+    top: 30%;
+
+}
+.pe{
+    position: fixed;
+    top: 92%;
+    left: 40%;
+}
